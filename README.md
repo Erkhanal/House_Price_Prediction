@@ -66,7 +66,7 @@ This section, includes specific questions related to the analysis made in Part-I
 - Jupyter Notebook for interactive analysis
 
 ## Acknowledgements:
-- I acknowledge and appreciate the valuable course materials from upGrad and IIIT-B which enhanced my understanding of data analysis and machine learning
+- I acknowledge and appreciate the valuable course materials from my university which enhanced my understanding of data analysis and machine learning
 
 ## References:
 - Python documentations
